@@ -1,0 +1,12 @@
+{
+  "name": "rekursi-faktorial-fibonacci",
+  "version": "1.0.0",
+  "description": "Menghitung faktorial dan deret Fibonacci dengan rekursi",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Lauran",
+  "license": "ISC"
+}
